@@ -1,37 +1,4 @@
-/* HEADER */
 header {
   background-image: url(https://i.postimg.cc/vZ8VsQqr/z25618612-IFR-Galanteria-meska.jpg);
 }
-
-/* Carousel */
-.carousel-inner, .carousel-item {
-  height: 100vh;
-}
-
-.carousel-item img {
-  height: 100%;
-  -o-object-fit: cover;
-     object-fit: cover;
-}
-
-/* Products */
-.card img {
-  width: 100%;
-  height: 300px;
-  -o-object-fit: cover;
-     object-fit: cover;
-}
-
-/* Sequence */
-.sequence {
-  background: #eff2f5;
-}
-
-.social a {
-  font-size: 0px;
-}
-
-a i {
-  font-size: 16px;
-}
-/*# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJzb3VyY2VzIjpbIi4uL3Nhc3Mvc3R5bGUuc2NzcyIsInN0eWxlLmNzcyJdLCJuYW1lcyI6W10sIm1hcHBpbmdzIjoiQUFBQSxXQUFBO0FBRUE7RUFDRSx1RkFBQTtBQ0FGOztBRElBLGFBQUE7QUFFQTtFQUNJLGFBQUE7QUNGSjs7QURLQTtFQUNJLFlBQUE7RUFDQSxvQkFBQTtLQUFBLGlCQUFBO0FDRko7O0FES0EsYUFBQTtBQUVBO0VBQ0ksV0FBQTtFQUNBLGFBQUE7RUFDQSxvQkFBQTtLQUFBLGlCQUFBO0FDSEo7O0FETUEsYUFBQTtBQUVBO0VBQ0ksbUJBQUE7QUNKSjs7QURPQTtFQUNJLGNBQUE7QUNKSjs7QURPQTtFQUNJLGVBQUE7QUNKSiIsImZpbGUiOiJzdHlsZS5jc3MifQ== */
+/*# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJzb3VyY2VzIjpbIi4uL3Nhc3Mvc3R5bGUuc2NzcyIsInN0eWxlLmNzcyJdLCJuYW1lcyI6W10sIm1hcHBpbmdzIjoiQUFDQTtFQUNJLHVGQUFBO0FDQUoiLCJmaWxlIjoic3R5bGUuY3NzIn0= */
